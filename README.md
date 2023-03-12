@@ -1,5 +1,8 @@
 # COMSBC3930
-Project
+Module1
+
+reproducibility
+program that runs on the ESP32 TTGO T-Display to generate a visual for your display
 
 ```c
 
@@ -24,4 +27,8 @@ void loop() {
   matrix_effect.loop();
 }
 ```
+
+installation/usage
+Arduino IDE 2.0.3
+
 [Youtube Link] (https://www.youtube.com/watch?v=rvvWfrDUK3Q)
