@@ -13,4 +13,4 @@ https://www.youtube.com/shorts/iIRXd4ZzCp0
 The #include statements import the required libraries for WiFi and web server functionality. The #define statements set some constants for the relay's configuration, such as whether it is normally open (NO) or closed (NC), and the number and GPIO pin of the relay. The const char* variables define the WiFi network name and password, as well as some input parameters for the web server.
 
 
-https://www.youtube.com/shorts/iIRXd4ZzCp0
+https://www.youtube.com/watch?v=HHOH1vOAYE0&ab_channel=daheunpark
